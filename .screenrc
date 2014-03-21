@@ -1,2 +1,3 @@
 defutf8 on
 startup_message off
+#caption always "%1001`%?%-Lw%50L>%?%{=r}%n*%f %t%?(%u)%?%{-}%12`%?%+Lw%?%11` %=%12`%1002`%10`%<"
