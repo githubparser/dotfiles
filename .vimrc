@@ -37,6 +37,8 @@ set exrc
 set secure
 " Enable line numbers
 set number
+" Explicitly enable 256 colors for things like screen-bce terminals
+set t_Co=256
 " Enable syntax highlighting
 syntax on
 " Highlight current line
