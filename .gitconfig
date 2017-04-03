@@ -1,6 +1,6 @@
 [user]
 	name = Brodie McRae
-	email = brodie.mcrae@telus.com
+	email = brodie@ieee.org
 [core]
   autocrlf = input
   whitespace = fix,space-before-tab,tab-in-indent,trailing-space
